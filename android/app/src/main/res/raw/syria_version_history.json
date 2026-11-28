@@ -6,6 +6,22 @@
   ],
   "versions": [
     {
+      "en": [
+        "Before anything is sent to our server, the app shows what it collects and asks for your consent, at every sign-in",
+        "Delete your account and all its data at any time in Settings → Account",
+        "North button on the map: its needle always points north, and one tap turns the map back to north up",
+        "The app is now called خرائط سوريا in Arabic",
+        "Fixes and improvements from Organic Maps"
+      ],
+      "ar": [
+        "يعرض التطبيق ما يجمعه ويطلب موافقتك قبل إرسال أي شيء إلى خادمنا، مع كل تسجيل دخول",
+        "احذف حسابك وكل بياناته في أي وقت من الإعدادات ← الحساب",
+        "زر الشمال على الخريطة: إبرته تشير دائماً إلى الشمال، وضغطة واحدة تعيد الخريطة باتجاه الشمال",
+        "اسم التطبيق بالعربية الآن «خرائط سوريا»",
+        "إصلاحات وتحسينات من Organic Maps"
+      ]
+    },
+    {
       "version": "2026.11.27-2",
       "en": [
         "New look with the Syria Organic Maps mark: app icon, splash screen and the map menu button",
